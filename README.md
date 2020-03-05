@@ -1,2 +1,0 @@
-# redux-counter
-from lesson
